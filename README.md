@@ -1,2 +1,2 @@
-# Curso-Angular-JavaScript-Typescript
-Curso de Angular 2 (v17+) Typescript do Básico ao Avançado
+# Curso-Angular-JavaScript
+Curso de Angular 2 (v13-15) Javascript
